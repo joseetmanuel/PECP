@@ -1,0 +1,1 @@
+version = int(input('dame el enetero: '))
